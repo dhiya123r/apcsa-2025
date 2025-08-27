@@ -49,6 +49,8 @@ class Math {
 
     //Try doing some math operations with numbers. How can we check to see if the math worked?
     
+    System.out.println(camelCase * camelCase2);
+    System.out.println(camelCase-camelCase2);
 
     //Create codes that will print the following:
 
