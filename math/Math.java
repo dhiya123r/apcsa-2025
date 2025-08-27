@@ -28,14 +28,16 @@ class Math {
     //For AP we need to know: int, double, boolean
 
     //List examples of the types below and give definition
-    //int (integer):
-    //double:
-    //boolean:
+    //int (integer): integer, 10
+    //double: decimal 0.67
+    //boolean:true or false statements 
 
     //For now we are just going to work with primitive
 
     //Create 3 variables of each of the above types (USE GOOD CODING PRACTICE WHEN CREATING THE VARIABLES
-
+    int camelCase= 10;
+    double camelCase2= 2.2; 
+    boolean camelCase3=true;
 
 
 
@@ -46,6 +48,7 @@ class Math {
     //+ - * / %
 
     //Try doing some math operations with numbers. How can we check to see if the math worked?
+    
 
     //Create codes that will print the following:
 
