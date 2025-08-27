@@ -58,7 +58,13 @@ class Math {
 for(int i=1;i<=51;i++){
   System.out.println((i*2)-1);
 }
-
+for(int i=1; i<=33;i++){
+ System.out.println(3*i);
+}
+    //Starting at 1000, print on the same line (with a - [hypthen] between each) all of the numbers that end in 0 going down to 0
+  for(int i=1000; i>=0; i-=10){
+    System.out.print(i+"-");
+  }
   }
 
 }
@@ -69,6 +75,6 @@ for(int i=1;i<=51;i++){
 
 
 
-    //Starting at 1000, print on the same line (with a - [hypthen] between each) all of the numbers that end in 0 going down to 0
-  }
-}
+
+
+
