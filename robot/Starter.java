@@ -9,6 +9,7 @@ public class Starter implements Directions{
     World.setVisible(true);// allows us to see the run output
     // the bigger the street, the farther north
     World.setSize(20,20);
+    //Pizza
 
 
     // The line below creates a Robot that we will refer to as rob
