@@ -55,7 +55,13 @@ class Math {
     //Create codes that will print the following:
 
     //Odd integers from 1 to 100, inclusive of both
+for(int i=1;i<=51;i++){
+  System.out.println((i*2)-1);
+}
 
+  }
+
+}
 
 
     //All multiples of 3 from 1 to 100
